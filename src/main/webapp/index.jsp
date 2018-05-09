@@ -2,7 +2,7 @@
 	<head>
 		<title>Test Page</title>
 	</head>
-	<body style="background-color:powderblue;">
+	<body style="background-color:green;">
 		<p>Hello All</p>
 		<input type="text" id="myText" value="">
 						<button onclick="myFunction()">Click Here</button>		

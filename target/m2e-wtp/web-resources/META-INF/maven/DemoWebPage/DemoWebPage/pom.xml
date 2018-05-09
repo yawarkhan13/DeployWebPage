@@ -36,7 +36,8 @@
 				<version>2.2</version>
 				<configuration>
 					<url>http://localhost:8081/manager/text</url>
-					<server>mytomcat</server>
+					<username>bob</username>
+     				<password>whatever</password>
 					<path>/DemoWebPage</path>
 					<port>8081</port>
 				</configuration>
