@@ -39,7 +39,7 @@
 					<username>bob</username>
      				<password>whatever</password>
 					<path>/DemoWebPage</path>
-					<port>8081</port>
+					<port>8082</port>
 				</configuration>
 			</plugin>
 		</plugins>
